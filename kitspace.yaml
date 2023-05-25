@@ -1,0 +1,8 @@
+bom: hw/sch_pcb/CLKHUB02.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/CLKHUB02.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/CLKHUB02
+summary: high speed clock distributor with ten LVPECL outputs. Usable up to 3.5GHz
