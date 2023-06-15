@@ -9,8 +9,8 @@ image: doc/img/CLKHUB02A_PECL_bottom_small.jpg
 images:
 - doc/img/CLKHUB02A_PECL_bottom_small.jpg
 - doc/img/CLKHUB02A_top_small.jpg
-- doc/src/CLKHUB02A_PECL_bottom_big.jpg
 - doc/src/CLKHUB02A_top_big.jpg
+- doc/src/CLKHUB02A_PECL_bottom_big.jpg
 - doc/src/CLKHUB02A_LVDS_bottom_big.jpg
 - doc/img/CLKHUB02A_QRcode.png
 issues: 0
