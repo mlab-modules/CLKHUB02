@@ -7,11 +7,11 @@ github_url: https://github.com/mlab-modules/CLKHUB02
 homepage: false
 image_title: doc/img/CLKHUB02A_PECL_bottom_small.jpg
 images:
-- doc/src/CLKHUB02A_LVDS_bottom_big.jpg
 - doc/src/CLKHUB02A_top_big.jpg
+- doc/src/CLKHUB02A_LVDS_bottom_big.jpg
 - doc/src/CLKHUB02A_PECL_bottom_big.jpg
-- doc/img/CLKHUB02A_top_small.jpg
 - doc/img/CLKHUB02A_PECL_bottom_small.jpg
+- doc/img/CLKHUB02A_top_small.jpg
 - doc/img/CLKHUB02A_QRcode.png
 issues: 0
 mark: 50
@@ -22,4 +22,4 @@ tags:
 - clock-hub
 - mlab-module
 title: CLKHUB02
-updated: '2023-09-11T00:56:55.500290+00:00'
+updated: '2023-09-16T16:03:55.425581+00:00'
