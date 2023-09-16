@@ -15,6 +15,7 @@ images:
 - doc/img/CLKHUB02A_QRcode.png
 issues: 0
 mark: 50
+status: 0
 tags:
 - clock
 - mlab
