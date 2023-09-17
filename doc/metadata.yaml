@@ -2,6 +2,8 @@ description: high speed clock distributor with ten LVPECL outputs. Usable up to 
 github_branch: CLKHUB02A
 github_branches:
 - CLKHUB02A
+github_description: high speed clock distributor with ten LVPECL outputs. Usable up
+  to 3.5GHz
 github_repo: CLKHUB02
 github_url: https://github.com/mlab-modules/CLKHUB02
 homepage: false
@@ -23,4 +25,4 @@ tags:
 - clock-hub
 - mlab-module
 title: CLKHUB02
-updated: '2023-09-17T07:01:39.362678+00:00'
+updated: '2023-09-17T11:38:05.239195+00:00'
